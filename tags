@@ -9,52 +9,92 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20210110.0/
+0	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 0	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+0	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:packages/cupertino_icons/assets/CupertinoIcons.ttf
+0	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	o
+0	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	o	array:0.fonts
+0	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	o	array:1.fonts
+0	build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	s	array:packages/cupertino_icons/assets/CupertinoIcons.ttf
+0	build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	o
+0	build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	o	array:0.fonts
+0	build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	o	array:1.fonts
 0	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
 0	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    {$/;"	o	array:images
 0	web/manifest.json	/^        {$/;"	o	array:icons
+1	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 1	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+1	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	o
+1	build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	o
 1	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
 1	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    {$/;"	o	array:images
 1	web/manifest.json	/^        {$/;"	o	array:icons
+10	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 10	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 10	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+11	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 11	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 11	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+12	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 12	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 12	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+13	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 13	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 13	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+14	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 14	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 14	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+15	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 15	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 15	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+16	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 16	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 16	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+17	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 17	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 17	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+18	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 18	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 18	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+19	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 19	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+2	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 2	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 2	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
 2	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    {$/;"	o	array:images
+20	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 20	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+21	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 21	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+22	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 22	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
+23	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
+24	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
+25	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
+26	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
+27	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
+28	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
+29	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
+3	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 3	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 3	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+4	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 4	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 4	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
 4NT_args	android/gradlew.bat	/^:4NT_args$/;"	l
+5	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 5	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 5	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+6	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 6	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 6	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+7	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 7	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 7	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+8	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 8	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 8	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
+9	.dart_tool/flutter_build/025907610684b942f8df30ae87a97b2b/outputs.json	/^["\/home\/noe\/project\/flutter\/flutter_calculadora\/linux\/flutter\/ephemeral\/libflutter_linu/;"	s
 9	.dart_tool/package_config.json	/^    {$/;"	o	array:packages
 9	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    {$/;"	o	array:images
 AOT_LIBRARY	linux/flutter/CMakeLists.txt	/^set(AOT_LIBRARY "${PROJECT_DIR}\/build\/lib\/libapp.so" PARENT_SCOPE)$/;"	v
@@ -62,6 +102,9 @@ APPLICATION_ID	linux/CMakeLists.txt	/^set(APPLICATION_ID "com.example.flutter_ca
 APPLY_STANDARD_SETTINGS	linux/CMakeLists.txt	/^function(APPLY_STANDARD_SETTINGS TARGET)$/;"	f
 APP_BASE_NAME	android/gradlew.bat	/^set APP_BASE_NAME=%~n0$/;"	v
 APP_HOME	android/gradlew.bat	/^set APP_HOME=%DIRNAME%$/;"	v
+ARCHITECTURE_ID	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID /;"	d	file:
+ARCHITECTURE_ID	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define ARCHITECTURE_ID$/;"	d	file:
 BINARY_NAME	linux/CMakeLists.txt	/^set(BINARY_NAME "flutter_calculadora")$/;"	v
 BUILD_BUNDLE_DIR	linux/CMakeLists.txt	/^set(BUILD_BUNDLE_DIR "${PROJECT_BINARY_DIR}\/bundle")$/;"	v
 CFBundleDevelopmentRegion	ios/Flutter/AppFrameworkInfo.plist	/^  <key>CFBundleDevelopmentRegion<\/key>$/;"	k
@@ -83,18 +126,113 @@ CFBundleSignature	ios/Runner/Info.plist	/^	<key>CFBundleSignature<\/key>$/;"	k
 CFBundleVersion	ios/Flutter/AppFrameworkInfo.plist	/^  <key>CFBundleVersion<\/key>$/;"	k
 CFBundleVersion	ios/Runner/Info.plist	/^	<key>CFBundleVersion<\/key>$/;"	k
 CLASSPATH	android/gradlew.bat	/^set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar$/;"	v
+CMAKE_AR	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_AR "\/usr\/bin\/ar")$/;"	v
 CMAKE_BUILD_TYPE	linux/CMakeLists.txt	/^  set(CMAKE_BUILD_TYPE "Debug" CACHE$/;"	v
+CMAKE_CL_SHOWINCLUDES_PREFIX	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^  set(CMAKE_CL_SHOWINCLUDES_PREFIX "${CMAKE_CXX_CL_SHOWINCLUDES_PREFIX}")$/;"	v
+CMAKE_COMPILER_IS_CYGWIN	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_COMPILER_IS_CYGWIN )$/;"	v
+CMAKE_COMPILER_IS_GNUCXX	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_COMPILER_IS_GNUCXX )$/;"	v
+CMAKE_COMPILER_IS_MINGW	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_COMPILER_IS_MINGW )$/;"	v
+CMAKE_CROSSCOMPILING	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeSystem.cmake	/^set(CMAKE_CROSSCOMPILING "FALSE")$/;"	v
+CMAKE_CROSSCOMPILING	build/linux/x64/debug/cmake_install.cmake	/^  set(CMAKE_CROSSCOMPILING "FALSE")$/;"	v
+CMAKE_CROSSCOMPILING	build/linux/x64/debug/flutter/cmake_install.cmake	/^  set(CMAKE_CROSSCOMPILING "FALSE")$/;"	v
+CMAKE_CXX11_COMPILE_FEATURES	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX11_COMPILE_FEATURES "cxx_std_11;cxx_alias_templates;cxx_alignas;cxx_alignof;cxx_att/;"	v
+CMAKE_CXX14_COMPILE_FEATURES	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX14_COMPILE_FEATURES "cxx_std_14;cxx_aggregate_default_initializers;cxx_attribute_de/;"	v
+CMAKE_CXX17_COMPILE_FEATURES	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX17_COMPILE_FEATURES "cxx_std_17")$/;"	v
+CMAKE_CXX20_COMPILE_FEATURES	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX20_COMPILE_FEATURES "cxx_std_20")$/;"	v
+CMAKE_CXX23_COMPILE_FEATURES	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX23_COMPILE_FEATURES "cxx_std_23")$/;"	v
+CMAKE_CXX98_COMPILE_FEATURES	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX98_COMPILE_FEATURES "cxx_std_98;cxx_template_template_parameters")$/;"	v
+CMAKE_CXX_ABI_COMPILED	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_ABI_COMPILED TRUE)$/;"	v
+CMAKE_CXX_BYTE_ORDER	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_BYTE_ORDER "LITTLE_ENDIAN")$/;"	v
+CMAKE_CXX_CL_SHOWINCLUDES_PREFIX	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_CL_SHOWINCLUDES_PREFIX "")$/;"	v
+CMAKE_CXX_COMPILER	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER "\/usr\/bin\/clang++")$/;"	v
+CMAKE_CXX_COMPILER_ABI	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ABI "ELF")$/;"	v
+CMAKE_CXX_COMPILER_AR	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_AR "\/usr\/bin\/llvm-ar")$/;"	v
+CMAKE_CXX_COMPILER_ARG1	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ARG1 "")$/;"	v
+CMAKE_CXX_COMPILER_ENV_VAR	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ENV_VAR "CXX")$/;"	v
+CMAKE_CXX_COMPILER_FRONTEND_VARIANT	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_FRONTEND_VARIANT "GNU")$/;"	v
+CMAKE_CXX_COMPILER_ID	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ID "Clang")$/;"	v
+CMAKE_CXX_COMPILER_ID_RUN	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_ID_RUN 1)$/;"	v
+CMAKE_CXX_COMPILER_LOADED	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_LOADED 1)$/;"	v
+CMAKE_CXX_COMPILER_RANLIB	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_RANLIB "\/usr\/bin\/llvm-ranlib")$/;"	v
+CMAKE_CXX_COMPILER_VERSION	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_VERSION "12.0.0")$/;"	v
+CMAKE_CXX_COMPILER_VERSION_INTERNAL	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_VERSION_INTERNAL "")$/;"	v
+CMAKE_CXX_COMPILER_WORKS	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_WORKS TRUE)$/;"	v
+CMAKE_CXX_COMPILER_WRAPPER	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILER_WRAPPER "")$/;"	v
+CMAKE_CXX_COMPILE_FEATURES	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_COMPILE_FEATURES "cxx_std_98;cxx_template_template_parameters;cxx_std_11;cxx_alias/;"	v
+CMAKE_CXX_IGNORE_EXTENSIONS	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IGNORE_EXTENSIONS inl;h;hpp;HPP;H;o;O;obj;OBJ;def;DEF;rc;RC)$/;"	v
+CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_INCLUDE_DIRECTORIES "\/usr\/include\/c++\/11.1.0;\/usr\/include\/c++\/11./;"	v
+CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_LINK_DIRECTORIES "\/usr\/lib64\/gcc\/x86_64-pc-linux-gnu\/11.1.0;\/usr\/l/;"	v
+CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")$/;"	v
+CMAKE_CXX_IMPLICIT_LINK_LIBRARIES	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_IMPLICIT_LINK_LIBRARIES "stdc++;m;gcc_s;gcc;c;gcc_s;gcc")$/;"	v
+CMAKE_CXX_LIBRARY_ARCHITECTURE	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_CXX_LINKER_PREFERENCE	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_LINKER_PREFERENCE 30)$/;"	v
+CMAKE_CXX_LINKER_PREFERENCE_PROPAGATES	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_LINKER_PREFERENCE_PROPAGATES 1)$/;"	v
+CMAKE_CXX_PLATFORM_ID	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_PLATFORM_ID "Linux")$/;"	v
+CMAKE_CXX_SIMULATE_ID	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SIMULATE_ID "")$/;"	v
+CMAKE_CXX_SIMULATE_VERSION	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SIMULATE_VERSION "")$/;"	v
+CMAKE_CXX_SIZEOF_DATA_PTR	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SIZEOF_DATA_PTR "8")$/;"	v
+CMAKE_CXX_SOURCE_FILE_EXTENSIONS	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_SOURCE_FILE_EXTENSIONS C;M;c++;cc;cpp;cxx;m;mm;mpp;CPP)$/;"	v
+CMAKE_CXX_STANDARD_COMPUTED_DEFAULT	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_CXX_STANDARD_COMPUTED_DEFAULT "14")$/;"	v
 CMAKE_FIND_ROOT_PATH	linux/CMakeLists.txt	/^  set(CMAKE_FIND_ROOT_PATH ${CMAKE_SYSROOT})$/;"	v
 CMAKE_FIND_ROOT_PATH_MODE_INCLUDE	linux/CMakeLists.txt	/^  set(CMAKE_FIND_ROOT_PATH_MODE_INCLUDE ONLY)$/;"	v
 CMAKE_FIND_ROOT_PATH_MODE_LIBRARY	linux/CMakeLists.txt	/^  set(CMAKE_FIND_ROOT_PATH_MODE_LIBRARY ONLY)$/;"	v
 CMAKE_FIND_ROOT_PATH_MODE_PACKAGE	linux/CMakeLists.txt	/^  set(CMAKE_FIND_ROOT_PATH_MODE_PACKAGE ONLY)$/;"	v
 CMAKE_FIND_ROOT_PATH_MODE_PROGRAM	linux/CMakeLists.txt	/^  set(CMAKE_FIND_ROOT_PATH_MODE_PROGRAM NEVER)$/;"	v
+CMAKE_HOST_SYSTEM	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM "Linux-5.12.13-zen1-2-zen")$/;"	v
+CMAKE_HOST_SYSTEM_NAME	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM_NAME "Linux")$/;"	v
+CMAKE_HOST_SYSTEM_PROCESSOR	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM_PROCESSOR "x86_64")$/;"	v
+CMAKE_HOST_SYSTEM_VERSION	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeSystem.cmake	/^set(CMAKE_HOST_SYSTEM_VERSION "5.12.13-zen1-2-zen")$/;"	v
+CMAKE_INSTALL_COMPONENT	build/linux/x64/debug/cmake_install.cmake	/^    set(CMAKE_INSTALL_COMPONENT "${COMPONENT}")$/;"	v
+CMAKE_INSTALL_COMPONENT	build/linux/x64/debug/cmake_install.cmake	/^    set(CMAKE_INSTALL_COMPONENT)$/;"	v
+CMAKE_INSTALL_COMPONENT	build/linux/x64/debug/flutter/cmake_install.cmake	/^    set(CMAKE_INSTALL_COMPONENT "${COMPONENT}")$/;"	v
+CMAKE_INSTALL_COMPONENT	build/linux/x64/debug/flutter/cmake_install.cmake	/^    set(CMAKE_INSTALL_COMPONENT)$/;"	v
+CMAKE_INSTALL_CONFIG_NAME	build/linux/x64/debug/cmake_install.cmake	/^    set(CMAKE_INSTALL_CONFIG_NAME "Debug")$/;"	v
+CMAKE_INSTALL_CONFIG_NAME	build/linux/x64/debug/flutter/cmake_install.cmake	/^    set(CMAKE_INSTALL_CONFIG_NAME "Debug")$/;"	v
+CMAKE_INSTALL_MANIFEST	build/linux/x64/debug/cmake_install.cmake	/^  set(CMAKE_INSTALL_MANIFEST "install_manifest.txt")$/;"	v
+CMAKE_INSTALL_MANIFEST	build/linux/x64/debug/cmake_install.cmake	/^  set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")$/;"	v
+CMAKE_INSTALL_PREFIX	build/linux/x64/debug/cmake_install.cmake	/^  set(CMAKE_INSTALL_PREFIX "\/home\/noe\/project\/flutter\/flutter_calculadora\/build\/linux\/x6/;"	v
+CMAKE_INSTALL_PREFIX	build/linux/x64/debug/flutter/cmake_install.cmake	/^  set(CMAKE_INSTALL_PREFIX "\/home\/noe\/project\/flutter\/flutter_calculadora\/build\/linux\/x6/;"	v
 CMAKE_INSTALL_PREFIX	linux/CMakeLists.txt	/^  set(CMAKE_INSTALL_PREFIX "${BUILD_BUNDLE_DIR}" CACHE PATH "..." FORCE)$/;"	v
 CMAKE_INSTALL_RPATH	linux/CMakeLists.txt	/^set(CMAKE_INSTALL_RPATH "$ORIGIN\/lib")$/;"	v
+CMAKE_INSTALL_SO_NO_EXE	build/linux/x64/debug/cmake_install.cmake	/^  set(CMAKE_INSTALL_SO_NO_EXE "0")$/;"	v
+CMAKE_INSTALL_SO_NO_EXE	build/linux/x64/debug/flutter/cmake_install.cmake	/^  set(CMAKE_INSTALL_SO_NO_EXE "0")$/;"	v
+CMAKE_INTERNAL_PLATFORM_ABI	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^  set(CMAKE_INTERNAL_PLATFORM_ABI "${CMAKE_CXX_COMPILER_ABI}")$/;"	v
+CMAKE_LIBRARY_ARCHITECTURE	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^  set(CMAKE_LIBRARY_ARCHITECTURE "")$/;"	v
+CMAKE_LINKER	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_LINKER "\/usr\/bin\/ld")$/;"	v
+CMAKE_MT	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_MT "")$/;"	v
+CMAKE_OBJDUMP	build/linux/x64/debug/cmake_install.cmake	/^  set(CMAKE_OBJDUMP "\/usr\/bin\/objdump")$/;"	v
+CMAKE_OBJDUMP	build/linux/x64/debug/flutter/cmake_install.cmake	/^  set(CMAKE_OBJDUMP "\/usr\/bin\/objdump")$/;"	v
+CMAKE_RANLIB	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^set(CMAKE_RANLIB "\/usr\/bin\/ranlib")$/;"	v
+CMAKE_SIZEOF_VOID_P	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^  set(CMAKE_SIZEOF_VOID_P "${CMAKE_CXX_SIZEOF_DATA_PTR}")$/;"	v
 CMAKE_SYSROOT	linux/CMakeLists.txt	/^  set(CMAKE_SYSROOT ${FLUTTER_TARGET_PLATFORM_SYSROOT})$/;"	v
+CMAKE_SYSTEM	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeSystem.cmake	/^set(CMAKE_SYSTEM "Linux-5.12.13-zen1-2-zen")$/;"	v
+CMAKE_SYSTEM_LOADED	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_LOADED 1)$/;"	v
+CMAKE_SYSTEM_NAME	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_NAME "Linux")$/;"	v
+CMAKE_SYSTEM_PROCESSOR	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_PROCESSOR "x86_64")$/;"	v
+CMAKE_SYSTEM_VERSION	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeSystem.cmake	/^set(CMAKE_SYSTEM_VERSION "5.12.13-zen1-2-zen")$/;"	v
 CMD_LINE_ARGS	android/gradlew.bat	/^set CMD_LINE_ARGS=$/;"	v
 CMD_LINE_ARGS	android/gradlew.bat	/^set CMD_LINE_ARGS=%*$/;"	v
 CMD_LINE_ARGS	android/gradlew.bat	/^set CMD_LINE_ARGS=%\$$/;"	v
+COMPILER_ID	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_ID /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_INTERNAL	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_INTERNAL /;"	d	file:
+COMPILER_VERSION_MAJOR	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MAJOR	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MAJOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_MINOR	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_MINOR /;"	d	file:
+COMPILER_VERSION_PATCH	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^  # define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#   define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_PATCH	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_PATCH /;"	d	file:
+COMPILER_VERSION_TWEAK	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define COMPILER_VERSION_TWEAK /;"	d	file:
+COMPILER_VERSION_TWEAK	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define COMPILER_VERSION_TWEAK /;"	d	file:
+CXX_STD	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#      define CXX_STD /;"	d	file:
+CXX_STD	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#    define CXX_STD /;"	d	file:
+CXX_STD	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define CXX_STD /;"	d	file:
+CYGWIN	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^  set(CYGWIN 1)$/;"	v
+DEC	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define DEC(/;"	d	file:
 DEFAULT_JVM_OPTS	android/gradlew.bat	/^set DEFAULT_JVM_OPTS=$/;"	v
 DIRNAME	android/gradlew.bat	/^if "%DIRNAME%" == "" set DIRNAME=.$/;"	v
 DIRNAME	android/gradlew.bat	/^set DIRNAME=%~dp0$/;"	v
@@ -105,6 +243,63 @@ FLUTTER_LIBRARY	linux/flutter/CMakeLists.txt	/^set(FLUTTER_LIBRARY "${EPHEMERAL_
 FLUTTER_LIBRARY	linux/flutter/CMakeLists.txt	/^set(FLUTTER_LIBRARY ${FLUTTER_LIBRARY} PARENT_SCOPE)$/;"	v
 FLUTTER_MANAGED_DIR	linux/CMakeLists.txt	/^set(FLUTTER_MANAGED_DIR "${CMAKE_CURRENT_SOURCE_DIR}\/flutter")$/;"	v
 FLUTTER_MY_APPLICATION_H_	linux/my_application.h	/^#define FLUTTER_MY_APPLICATION_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FLUTTER_LINUX_H_	linux/flutter/ephemeral/flutter_linux/flutter_linux.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FLUTTER_LINUX_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_BASIC_MESSAGE_CHANNEL_H_	linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_BASIC_MESSAGE_CHANNEL_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_BINARY_CODEC_H_	linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_BINARY_CODEC_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_BINARY_MESSENGER_H_	linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_BINARY_MESSENGER_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_DART_PROJECT_H_	linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_DART_PROJECT_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_ENGINE_H_	linux/flutter/ephemeral/flutter_linux/fl_engine.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_ENGINE_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_EVENT_CHANNEL_H_	linux/flutter/ephemeral/flutter_linux/fl_event_channel.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_EVENT_CHANNEL_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_JSON_MESSAGE_CODEC_H_	linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_JSON_MESSAGE_CODEC_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_JSON_METHOD_CODEC_H_	linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_JSON_METHOD_CODEC_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_MESSAGE_CODEC_H_	linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_MESSAGE_CODEC_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_METHOD_CALL_H_	linux/flutter/ephemeral/flutter_linux/fl_method_call.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_METHOD_CALL_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_METHOD_CHANNEL_H_	linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_METHOD_CHANNEL_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_METHOD_CODEC_H_	linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_METHOD_CODEC_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_METHOD_RESPONSE_H_	linux/flutter/ephemeral/flutter_linux/fl_method_response.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_METHOD_RESPONSE_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_PLUGIN_REGISTRAR_H_	linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_PLUGIN_REGISTRAR_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_PLUGIN_REGISTRY_H_	linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_PLUGIN_REGISTRY_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_STANDARD_MESSAGE_CODEC_H_	linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_STANDARD_MESSAGE_CODEC_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_STANDARD_METHOD_CODEC_H_	linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_STANDARD_METHOD_CODEC_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_STRING_CODEC_H_	linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_STRING_CODEC_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_VALUE_H_	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_VALUE_H_$/;"	d
+FLUTTER_SHELL_PLATFORM_LINUX_FL_VIEW_H_	linux/flutter/ephemeral/flutter_linux/fl_view.h	/^#define FLUTTER_SHELL_PLATFORM_LINUX_FL_VIEW_H_$/;"	d
+FL_BINARY_MESSENGER_ERROR	linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	/^#define FL_BINARY_MESSENGER_ERROR /;"	d
+FL_BINARY_MESSENGER_ERROR_ALREADY_RESPONDED	linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	/^  FL_BINARY_MESSENGER_ERROR_ALREADY_RESPONDED,$/;"	e	enum:__anon2a5d39d30103
+FL_JSON_MESSAGE_CODEC_ERROR	linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	/^#define FL_JSON_MESSAGE_CODEC_ERROR /;"	d
+FL_JSON_MESSAGE_CODEC_ERROR_INVALID_JSON	linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	/^  FL_JSON_MESSAGE_CODEC_ERROR_INVALID_JSON,$/;"	e	enum:__anonbae722810103
+FL_JSON_MESSAGE_CODEC_ERROR_INVALID_OBJECT_KEY_TYPE	linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	/^  FL_JSON_MESSAGE_CODEC_ERROR_INVALID_OBJECT_KEY_TYPE,$/;"	e	enum:__anonbae722810103
+FL_JSON_MESSAGE_CODEC_ERROR_INVALID_UTF8	linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	/^  FL_JSON_MESSAGE_CODEC_ERROR_INVALID_UTF8,$/;"	e	enum:__anonbae722810103
+FL_MESSAGE_CODEC_ERROR	linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	/^#define FL_MESSAGE_CODEC_ERROR /;"	d
+FL_MESSAGE_CODEC_ERROR_ADDITIONAL_DATA	linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	/^  FL_MESSAGE_CODEC_ERROR_ADDITIONAL_DATA,$/;"	e	enum:__anon3f2e75e80103
+FL_MESSAGE_CODEC_ERROR_FAILED	linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	/^  FL_MESSAGE_CODEC_ERROR_FAILED,$/;"	e	enum:__anon3f2e75e80103
+FL_MESSAGE_CODEC_ERROR_OUT_OF_DATA	linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	/^  FL_MESSAGE_CODEC_ERROR_OUT_OF_DATA,$/;"	e	enum:__anon3f2e75e80103
+FL_MESSAGE_CODEC_ERROR_UNSUPPORTED_TYPE	linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	/^  FL_MESSAGE_CODEC_ERROR_UNSUPPORTED_TYPE,$/;"	e	enum:__anon3f2e75e80103
+FL_METHOD_RESPONSE_ERROR	linux/flutter/ephemeral/flutter_linux/fl_method_response.h	/^#define FL_METHOD_RESPONSE_ERROR /;"	d
+FL_METHOD_RESPONSE_ERROR_FAILED	linux/flutter/ephemeral/flutter_linux/fl_method_response.h	/^  FL_METHOD_RESPONSE_ERROR_FAILED,$/;"	e	enum:__anon1b18f8b50103
+FL_METHOD_RESPONSE_ERROR_NOT_IMPLEMENTED	linux/flutter/ephemeral/flutter_linux/fl_method_response.h	/^  FL_METHOD_RESPONSE_ERROR_NOT_IMPLEMENTED,$/;"	e	enum:__anon1b18f8b50103
+FL_METHOD_RESPONSE_ERROR_REMOTE_ERROR	linux/flutter/ephemeral/flutter_linux/fl_method_response.h	/^  FL_METHOD_RESPONSE_ERROR_REMOTE_ERROR,$/;"	e	enum:__anon1b18f8b50103
+FL_VALUE_TYPE_BOOL	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^  FL_VALUE_TYPE_BOOL,$/;"	e	enum:__anon0ebfac030103
+FL_VALUE_TYPE_FLOAT	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^  FL_VALUE_TYPE_FLOAT,$/;"	e	enum:__anon0ebfac030103
+FL_VALUE_TYPE_FLOAT_LIST	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^  FL_VALUE_TYPE_FLOAT_LIST,$/;"	e	enum:__anon0ebfac030103
+FL_VALUE_TYPE_INT	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^  FL_VALUE_TYPE_INT,$/;"	e	enum:__anon0ebfac030103
+FL_VALUE_TYPE_INT32_LIST	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^  FL_VALUE_TYPE_INT32_LIST,$/;"	e	enum:__anon0ebfac030103
+FL_VALUE_TYPE_INT64_LIST	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^  FL_VALUE_TYPE_INT64_LIST,$/;"	e	enum:__anon0ebfac030103
+FL_VALUE_TYPE_LIST	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^  FL_VALUE_TYPE_LIST,$/;"	e	enum:__anon0ebfac030103
+FL_VALUE_TYPE_MAP	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^  FL_VALUE_TYPE_MAP,$/;"	e	enum:__anon0ebfac030103
+FL_VALUE_TYPE_NULL	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^  FL_VALUE_TYPE_NULL,$/;"	e	enum:__anon0ebfac030103
+FL_VALUE_TYPE_STRING	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^  FL_VALUE_TYPE_STRING,$/;"	e	enum:__anon0ebfac030103
+FL_VALUE_TYPE_UINT8_LIST	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^  FL_VALUE_TYPE_UINT8_LIST,$/;"	e	enum:__anon0ebfac030103
+FlBasicMessageChannelMessageHandler	linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	/^typedef void (*FlBasicMessageChannelMessageHandler)($/;"	t	typeref:typename:void (*)(FlBasicMessageChannel * channel,FlValue * message,FlBasicMessageChannelResponseHandle * response_handle,gpointer user_data)
+FlBinaryMessengerError	linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	/^} FlBinaryMessengerError;$/;"	t	typeref:enum:__anon2a5d39d30103
+FlBinaryMessengerMessageHandler	linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	/^typedef void (*FlBinaryMessengerMessageHandler)($/;"	t	typeref:typename:void (*)(FlBinaryMessenger * messenger,const gchar * channel,GBytes * message,FlBinaryMessengerResponseHandle * response_handle,gpointer user_data)
+FlEventChannelHandler	linux/flutter/ephemeral/flutter_linux/fl_event_channel.h	/^typedef FlMethodErrorResponse* (*FlEventChannelHandler)(FlEventChannel* channel,$/;"	t	typeref:typename:FlMethodErrorResponse * (*)(FlEventChannel * channel,FlValue * args,gpointer user_data)
+FlJsonMessageCodecError	linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	/^} FlJsonMessageCodecError;$/;"	t	typeref:enum:__anonbae722810103
+FlMessageCodecError	linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	/^} FlMessageCodecError;$/;"	t	typeref:enum:__anon3f2e75e80103
+FlMethodChannelMethodCallHandler	linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	/^typedef void (*FlMethodChannelMethodCallHandler)(FlMethodChannel* channel,$/;"	t	typeref:typename:void (*)(FlMethodChannel * channel,FlMethodCall * method_call,gpointer user_data)
+FlMethodResponseError	linux/flutter/ephemeral/flutter_linux/fl_method_response.h	/^} FlMethodResponseError;$/;"	t	typeref:enum:__anon1b18f8b50103
+FlValue	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^typedef struct _FlValue FlValue;$/;"	t	typeref:struct:_FlValue
+FlValueType	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^} FlValueType;$/;"	t	typeref:enum:__anon0ebfac030103
 GENERATED_PLUGIN_REGISTRANT_	linux/flutter/generated_plugin_registrant.h	/^#define GENERATED_PLUGIN_REGISTRANT_$/;"	d
 G_DEFINE_TYPE	linux/my_application.cc	/^G_DEFINE_TYPE(MyApplication, my_application, GTK_TYPE_APPLICATION)$/;"	f	file:
 GeneratedPluginRegistrant	android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java	/^public final class GeneratedPluginRegistrant {$/;"	c
@@ -112,6 +307,7 @@ GeneratedPluginRegistrant	ios/Runner/GeneratedPluginRegistrant.h	/^@interface Ge
 GeneratedPluginRegistrant	ios/Runner/GeneratedPluginRegistrant.m	/^@implementation GeneratedPluginRegistrant$/;"	I
 GeneratedPluginRegistrant_h	ios/Runner/GeneratedPluginRegistrant.h	/^#define GeneratedPluginRegistrant_h$/;"	M
 Getting Started	README.md	/^## Getting Started$/;"	s	chapter:flutter_calculadora
+HEX	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define HEX(/;"	d	file:
 IDEDidComputeMac32BitWarning	ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist	/^	<key>IDEDidComputeMac32BitWarning<\/key>$/;"	k
 IDEDidComputeMac32BitWarning	ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist	/^	<key>IDEDidComputeMac32BitWarning<\/key>$/;"	k
 INSTALL_BUNDLE_DATA_DIR	linux/CMakeLists.txt	/^set(INSTALL_BUNDLE_DATA_DIR "${CMAKE_INSTALL_PREFIX}\/data")$/;"	v
@@ -121,20 +317,46 @@ JAVA_EXE	android/gradlew.bat	/^set JAVA_EXE=java.exe$/;"	v
 JAVA_HOME	android/gradlew.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	v
 LSRequiresIPhoneOS	ios/Runner/Info.plist	/^	<key>LSRequiresIPhoneOS<\/key>$/;"	k
 Launch Screen Assets	ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md	/^# Launch Screen Assets$/;"	c
+MINGW	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^  set(MINGW 1)$/;"	v
 MainActivity	android/app/src/main/kotlin/com/example/flutter_calculadora/MainActivity.kt	/^class MainActivity: FlutterActivity() {$/;"	c
 MinimumOSVersion	ios/Flutter/AppFrameworkInfo.plist	/^  <key>MinimumOSVersion<\/key>$/;"	k
 NEW_LIST	linux/flutter/CMakeLists.txt	/^    set(NEW_LIST "")$/;"	v	function:list_prepend
+PLATFORM_ID	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define PLATFORM_ID$/;"	d	file:
+PLATFORM_ID	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID /;"	d	file:
+PLATFORM_ID	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define PLATFORM_ID$/;"	d	file:
 PLUGIN_BUNDLED_LIBRARIES	linux/flutter/generated_plugins.cmake	/^set(PLUGIN_BUNDLED_LIBRARIES)$/;"	v
 PROJECT_BUILD_DIR	linux/flutter/CMakeLists.txt	/^set(PROJECT_BUILD_DIR "${PROJECT_DIR}\/build\/" PARENT_SCOPE)$/;"	v
 Project	.idea/workspace.xml	/^      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DO/;"	i
 ProjectPane	.idea/workspace.xml	/^      <pane id="ProjectPane">$/;"	i
+SIMULATE_ID	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_ID /;"	d	file:
+SIMULATE_ID	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_ID /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MAJOR	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MAJOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_MINOR	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_MINOR /;"	d	file:
+SIMULATE_VERSION_PATCH	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#  define SIMULATE_VERSION_PATCH /;"	d	file:
+SIMULATE_VERSION_PATCH	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^# define SIMULATE_VERSION_PATCH /;"	d	file:
+STRINGIFY	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY(/;"	d	file:
+STRINGIFY_HELPER	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^#define STRINGIFY_HELPER(/;"	d	file:
 UILaunchStoryboardName	ios/Runner/Info.plist	/^	<key>UILaunchStoryboardName<\/key>$/;"	k
 UIMainStoryboardFile	ios/Runner/Info.plist	/^	<key>UIMainStoryboardFile<\/key>$/;"	k
 UISupportedInterfaceOrientations	ios/Runner/Info.plist	/^	<key>UISupportedInterfaceOrientations<\/key>$/;"	k
 UISupportedInterfaceOrientations~ipad	ios/Runner/Info.plist	/^	<key>UISupportedInterfaceOrientations~ipad<\/key>$/;"	k
 UIViewControllerBasedStatusBarAppearance	ios/Runner/Info.plist	/^	<key>UIViewControllerBasedStatusBarAppearance<\/key>$/;"	k
+UNIX	build/linux/x64/debug/CMakeFiles/3.20.5/CMakeCXXCompiler.cmake	/^  set(UNIX 1)$/;"	v
+_FlMessageCodecClass	linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	/^struct _FlMessageCodecClass {$/;"	s
+_FlMethodCodecClass	linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	/^struct _FlMethodCodecClass {$/;"	s
+_FlMethodResponseClass	linux/flutter/ephemeral/flutter_linux/fl_method_response.h	/^struct _FlMethodResponseClass {$/;"	s
+_FlPluginRegistryInterface	linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	/^struct _FlPluginRegistryInterface {$/;"	s
 _MyApplication	linux/my_application.cc	/^struct _MyApplication {$/;"	s	file:
 _SKIP	android/gradlew.bat	/^set _SKIP=2$/;"	v
+__FLUTTER_LINUX_INSIDE__	linux/flutter/ephemeral/flutter_linux/flutter_linux.h	/^#define __FLUTTER_LINUX_INSIDE__$/;"	d
+__anon0ebfac030103	linux/flutter/ephemeral/flutter_linux/fl_value.h	/^typedef enum {$/;"	g
+__anon1b18f8b50103	linux/flutter/ephemeral/flutter_linux/fl_method_response.h	/^typedef enum {$/;"	g
+__anon2a5d39d30103	linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	/^typedef enum {$/;"	g
+__anon3f2e75e80103	linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	/^typedef enum {$/;"	g
+__anonbae722810103	linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	/^typedef enum {$/;"	g
 android	android/app/src/debug/AndroidManifest.xml	/^    package="com.example.flutter_calculadora">$/;"	n	uri:http://schemas.android.com/apk/res/android
 android	android/app/src/main/AndroidManifest.xml	/^    package="com.example.flutter_calculadora">$/;"	n	uri:http://schemas.android.com/apk/res/android
 android	android/app/src/main/res/drawable-v21/launch_background.xml	/^<layer-list xmlns:android="http:\/\/schemas.android.com\/apk\/res\/android">$/;"	n	uri:http://schemas.android.com/apk/res/android
@@ -142,21 +364,40 @@ android	android/app/src/main/res/drawable/launch_background.xml	/^<layer-list xm
 android	android/app/src/profile/AndroidManifest.xml	/^    package="com.example.flutter_calculadora">$/;"	n	uri:http://schemas.android.com/apk/res/android
 android.enableJetifier	android/gradle.properties	/^android.enableJetifier=true$/;"	k
 android.useAndroidX	android/gradle.properties	/^android.useAndroidX=true$/;"	k
+app_name	build/flutter_assets/version.json	/^{"app_name":"flutter_calculadora","version":"1.0.0","build_number":"1"}/;"	s
+app_name	build/linux/x64/debug/bundle/data/flutter_assets/version.json	/^{"app_name":"flutter_calculadora","version":"1.0.0","build_number":"1"}/;"	s
+asset	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	s	object:0.fonts.0
+asset	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	s	object:1.fonts.0
+asset	build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	s	object:0.fonts.0
+asset	build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	s	object:1.fonts.0
 author	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    "author" : "xcode"$/;"	s	object:info
 author	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    "author" : "xcode"$/;"	s	object:info
 background_color	web/manifest.json	/^    "background_color": "#0175C2",$/;"	s
+build_number	build/flutter_assets/version.json	/^{"app_name":"flutter_calculadora","version":"1.0.0","build_number":"1"}/;"	s
+build_number	build/linux/x64/debug/bundle/data/flutter_assets/version.json	/^{"app_name":"flutter_calculadora","version":"1.0.0","build_number":"1"}/;"	s
 com.example.flutter_calculadora	android/app/src/main/kotlin/com/example/flutter_calculadora/MainActivity.kt	/^package com.example.flutter_calculadora$/;"	p
 configVersion	.dart_tool/package_config.json	/^  "configVersion": 2,$/;"	n
 dart_entrypoint_arguments	linux/my_application.cc	/^  char** dart_entrypoint_arguments;$/;"	m	struct:_MyApplication	typeref:typename:char **	file:
+decode_message	linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	/^  FlValue* (*decode_message)(FlMessageCodec* codec,$/;"	m	struct:_FlMessageCodecClass	typeref:typename:FlValue * (*)(FlMessageCodec * codec,GBytes * message,GError ** error)
+decode_method_call	linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	/^  gboolean (*decode_method_call)(FlMethodCodec* codec,$/;"	m	struct:_FlMethodCodecClass	typeref:typename:gboolean (*)(FlMethodCodec * codec,GBytes * message,gchar ** name,FlValue ** args,GError ** error)
+decode_response	linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	/^  FlMethodResponse* (*decode_response)(FlMethodCodec* codec,$/;"	m	struct:_FlMethodCodecClass	typeref:typename:FlMethodResponse * (*)(FlMethodCodec * codec,GBytes * message,GError ** error)
 description	web/manifest.json	/^    "description": "A new Flutter project.",$/;"	s
 die	android/gradlew	/^die ( ) {$/;"	f
 display	web/manifest.json	/^    "display": "standalone",$/;"	s
 distributionBase	android/gradle/wrapper/gradle-wrapper.properties	/^distributionBase=GRADLE_USER_HOME$/;"	k
 distributionPath	android/gradle/wrapper/gradle-wrapper.properties	/^distributionPath=wrapper\/dists$/;"	k
 distributionUrl	android/gradle/wrapper/gradle-wrapper.properties	/^distributionUrl=https\\:\/\/services.gradle.org\/distributions\/gradle-6.7-all.zip$/;"	k
+encode_error_envelope	linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	/^  GBytes* (*encode_error_envelope)(FlMethodCodec* codec,$/;"	m	struct:_FlMethodCodecClass	typeref:typename:GBytes * (*)(FlMethodCodec * codec,const gchar * code,const gchar * message,FlValue * details,GError ** error)
+encode_message	linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	/^  GBytes* (*encode_message)(FlMessageCodec* codec,$/;"	m	struct:_FlMessageCodecClass	typeref:typename:GBytes * (*)(FlMessageCodec * codec,FlValue * message,GError ** error)
+encode_method_call	linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	/^  GBytes* (*encode_method_call)(FlMethodCodec* codec,$/;"	m	struct:_FlMethodCodecClass	typeref:typename:GBytes * (*)(FlMethodCodec * codec,const gchar * name,FlValue * args,GError ** error)
+encode_success_envelope	linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	/^  GBytes* (*encode_success_envelope)(FlMethodCodec* codec,$/;"	m	struct:_FlMethodCodecClass	typeref:typename:GBytes * (*)(FlMethodCodec * codec,FlValue * result,GError ** error)
 end	android/gradlew.bat	/^:end$/;"	l
 execute	android/gradlew.bat	/^:execute$/;"	l
 fail	android/gradlew.bat	/^:fail$/;"	l
+family	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	s	object:0
+family	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	s	object:1
+family	build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	s	object:0
+family	build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	s	object:1
 filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-1024x1024@1x.png",$/;"	s	object:images.18
 filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-20x20@1x.png",$/;"	s	object:images.9
 filename	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "filename" : "Icon-App-20x20@2x.png",$/;"	s	object:images.0
@@ -185,9 +426,15 @@ flutter	linux/flutter/CMakeLists.txt	/^add_library(flutter INTERFACE)$/;"	t
 flutter.sdk	android/local.properties	/^flutter.sdk=\/home\/noe\/Android\/flutter/;"	k
 flutter_assemble	linux/flutter/CMakeLists.txt	/^add_custom_target(flutter_assemble DEPENDS$/;"	t
 flutter_calculadora	README.md	/^# flutter_calculadora$/;"	c
+fonts	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	a	object:0
+fonts	build/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	a	object:1
+fonts	build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	a	object:0
+fonts	build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json	/^[{"family":"MaterialIcons","fonts":[{"asset":"fonts\/MaterialIcons-Regular.otf"}]},{"family":"pa/;"	a	object:1
+g_iface	linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	/^  GTypeInterface g_iface;$/;"	m	struct:_FlPluginRegistryInterface	typeref:typename:GTypeInterface
 generated	.dart_tool/package_config.json	/^  "generated": "2021-07-02T16:58:35.533273Z",$/;"	s
 generator	.dart_tool/package_config.json	/^  "generator": "pub",$/;"	s
 generatorVersion	.dart_tool/package_config.json	/^  "generatorVersion": "2.13.3"$/;"	s
+get_registrar_for_plugin	linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	/^  FlPluginRegistrar* (*get_registrar_for_plugin)(FlPluginRegistry* registry,$/;"	m	struct:_FlPluginRegistryInterface	typeref:typename:FlPluginRegistrar * (*)(FlPluginRegistry * registry,const gchar * name)
 icons	web/manifest.json	/^    "icons": [$/;"	a
 idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ios-marketing",$/;"	s	object:images.18
 idiom	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^      "idiom" : "ipad",$/;"	s	object:images.10
@@ -215,6 +462,15 @@ images	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^  "images" 
 images	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^  "images" : [$/;"	a
 info	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^  "info" : {$/;"	o
 info	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^  "info" : {$/;"	o
+info_arch	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_arch = "INFO" ":" "arch[" ARCHITECTURE_ID "]";$/;"	v	typeref:typename:char const *
+info_compiler	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_compiler = "INFO" ":" "compiler[" COMPILER_ID "]";$/;"	v	typeref:typename:char const *
+info_cray	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const *info_cray = "INFO" ":" "compiler_wrapper[CrayPrgEnv]";$/;"	v	typeref:typename:char const *
+info_language_dialect_default	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^const char* info_language_dialect_default = "INFO" ":" "dialect_default["$/;"	v	typeref:typename:const char *
+info_platform	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_platform = "INFO" ":" "platform[" PLATFORM_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* info_simulate = "INFO" ":" "simulate[" SIMULATE_ID "]";$/;"	v	typeref:typename:char const *
+info_simulate_version	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_simulate_version[] = {$/;"	v	typeref:typename:char const[]
+info_version	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version[] = {$/;"	v	typeref:typename:char const[]
+info_version_internal	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const info_version_internal[] = {$/;"	v	typeref:typename:char const[]
 init	android/gradlew.bat	/^:init$/;"	l
 io.flutter.plugins	android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java	/^package io.flutter.plugins;$/;"	p
 languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.0
@@ -241,6 +497,7 @@ languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"
 languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.8
 languageVersion	.dart_tool/package_config.json	/^      "languageVersion": "2.12"$/;"	s	object:packages.9
 list_prepend	linux/flutter/CMakeLists.txt	/^function(list_prepend LIST_NAME PREFIX)$/;"	f
+main	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^int main(int argc, char* argv[])$/;"	f	typeref:typename:int
 main	linux/main.cc	/^int main(int argc, char** argv) {$/;"	f	typeref:typename:int
 mainEnd	android/gradlew.bat	/^:mainEnd$/;"	l
 my_application_class_init	linux/my_application.cc	/^static void my_application_class_init(MyApplicationClass* klass) {$/;"	f	typeref:typename:void	file:
@@ -299,8 +556,14 @@ packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	o
 packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.8
 packageUri	.dart_tool/package_config.json	/^      "packageUri": "lib\/",$/;"	s	object:packages.9
 packages	.dart_tool/package_config.json	/^  "packages": [$/;"	a
+packages/cupertino_icons/assets/CupertinoIcons.ttf	build/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+packages/cupertino_icons/assets/CupertinoIcons.ttf	build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json	/^{"packages\/cupertino_icons\/assets\/CupertinoIcons.ttf":["packages\/cupertino_icons\/assets\/Cu/;"	a
+parent_class	linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	/^  GObjectClass parent_class;$/;"	m	struct:_FlMessageCodecClass	typeref:typename:GObjectClass
+parent_class	linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	/^  GObjectClass parent_class;$/;"	m	struct:_FlMethodCodecClass	typeref:typename:GObjectClass
+parent_class	linux/flutter/ephemeral/flutter_linux/fl_method_response.h	/^  GObjectClass parent_class;$/;"	m	struct:_FlMethodResponseClass	typeref:typename:GObjectClass
 parent_instance	linux/my_application.cc	/^  GtkApplication parent_instance;$/;"	m	struct:_MyApplication	typeref:typename:GtkApplication	file:
 prefer_related_applications	web/manifest.json	/^    "prefer_related_applications": false,$/;"	b
+qnxnto	build/linux/x64/debug/CMakeFiles/3.20.5/CompilerIdCXX/CMakeCXXCompilerId.cpp	/^char const* qnxnto = "INFO" ":" "qnxnto[]";$/;"	v	typeref:typename:char const *
 registerWith	android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java	/^  public static void registerWith(@NonNull FlutterEngine flutterEngine) {$/;"	m	class:GeneratedPluginRegistrant
 registerWithRegistry:	ios/Runner/GeneratedPluginRegistrant.h	/^+ (void)registerWithRegistry:(NSObject<FlutterPluginRegistry>*)registry;$/;"	c	interface:GeneratedPluginRegistrant
 registerWithRegistry:	ios/Runner/GeneratedPluginRegistrant.m	/^+ (void)registerWithRegistry:(NSObject<FlutterPluginRegistry>*)registry {$/;"	c	implementation:GeneratedPluginRegistrant
@@ -380,6 +643,8 @@ start_url	web/manifest.json	/^    "start_url": ".",$/;"	s
 theme_color	web/manifest.json	/^    "theme_color": "#0175C2",$/;"	s
 type	web/manifest.json	/^            "type": "image\/png"$/;"	s	object:icons.0
 type	web/manifest.json	/^            "type": "image\/png"$/;"	s	object:icons.1
+version	build/flutter_assets/version.json	/^{"app_name":"flutter_calculadora","version":"1.0.0","build_number":"1"}/;"	s
+version	build/linux/x64/debug/bundle/data/flutter_assets/version.json	/^{"app_name":"flutter_calculadora","version":"1.0.0","build_number":"1"}/;"	s
 version	ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json	/^    "version" : 1,$/;"	n	object:info
 version	ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json	/^    "version" : 1,$/;"	n	object:info
 warn	android/gradlew	/^warn ( ) {$/;"	f
