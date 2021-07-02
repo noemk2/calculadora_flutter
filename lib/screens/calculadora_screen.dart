@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_calculadora/widgets/calc_button.dart';
+import 'package:flutter_calculadora/widgets/main_result.dart';
+import 'package:flutter_calculadora/widgets/sub_result.dart';
 
 class CalculatorScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      //key: scaffoldKey,
       backgroundColor: Colors.black,
       body: SafeArea(
         child: Align(
@@ -25,37 +27,13 @@ class CalculatorScreen extends StatelessWidget {
                       mainAxisAlignment: MainAxisAlignment.end,
                       crossAxisAlignment: CrossAxisAlignment.end,
                       children: [
-                        Padding(
-                          padding: EdgeInsets.fromLTRB(0, 0, 0, 15),
-                          child: Text(
-                            '1000',
-                            style: TextStyle(fontSize: 30, color: Colors.white),
-                          ),
-                        ),
-                        Padding(
-                          padding: EdgeInsets.fromLTRB(0, 0, 0, 15),
-                          child: Text(
-                            'x',
-                            style: TextStyle(fontSize: 30, color: Colors.white),
-                          ),
-                        ),
-                        Padding(
-                          padding: EdgeInsets.fromLTRB(0, 0, 0, 15),
-                          child: Text(
-                            '1000',
-                            style: TextStyle(fontSize: 30, color: Colors.white),
-                          ),
-                        ),
+                        SubResult(text: '1000'),
+                        SubResult(text: 'X'),
+                        SubResult(text: '1000'),
                         Divider(
                           color: Colors.white,
                         ),
-                        Padding(
-                          padding: EdgeInsets.fromLTRB(0, 15, 0, 15),
-                          child: Text(
-                            '2000',
-                            style: TextStyle(fontSize: 30, color: Colors.white),
-                          ),
-                        )
+                        MainResultText(text: '2000'),
                       ],
                     ),
                   ),
@@ -75,29 +53,29 @@ class CalculatorScreen extends StatelessWidget {
                             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
-                              ElevatedButton(
+                              CalculatorButton(
                                 onPressed: () {
                                   print('Button pressed ...');
                                 },
-                                child: Text('AC'),
+                                text: 'AC',
                               ),
-                              ElevatedButton(
+                              CalculatorButton(
                                 onPressed: () {
                                   print('Button pressed ...');
                                 },
-                                child: Text('+/-'),
+                                text: '+/-',
                               ),
-                              ElevatedButton(
+                              CalculatorButton(
                                 onPressed: () {
                                   print('Button pressed ...');
                                 },
-                                child: Text('del'),
+                                text: 'del',
                               ),
-                              ElevatedButton(
+                              CalculatorButton(
                                 onPressed: () {
                                   print('Button pressed ...');
                                 },
-                                child: Text('/'),
+                                text: '/',
                               )
                             ],
                           ),
